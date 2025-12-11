@@ -1,3 +1,8 @@
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Circom](https://img.shields.io/badge/circom-2.2.3-orange)](https://github.com/iden3/circom)
+[![snarkjs](https://img.shields.io/badge/snarkjs-0.7.0-purple)](https://github.com/iden3/snarkjs)
+[![Protocol](https://img.shields.io/badge/protocol-Groth16-blue)](https://eprint.iacr.org/2016/260)
+[![Curve](https://img.shields.io/badge/curve-bn128-yellow)](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-196.md)
 # Zero-Knowledge Proof API Documentation
 
 ## Overview
